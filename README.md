@@ -1,1 +1,1 @@
-# A-c-project-with-several-functions
+# A-CPP-project-with-several-functions
